@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/main/assets/obito.gif" width="200" />
+<img src="[https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/main/assets/obito.gif](https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/9d6b7419a92ece5da9706d7fa4962cbd586973c8/1766910444010.jpg)" width="200" />
 
 # RyzenXD-sys
 
@@ -18,13 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RyzenXD-sys&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenXD-sys&layout=compact&theme=tokyonight" />
-
----
-
 ### 🌌 Quote
 > *“The moment people come to know love, they run the risk of carrying hate.”*  
 — **Obito Uchiha**
@@ -35,10 +28,10 @@
 
 ## About Me
 
-I am a backend-focused developer specializing in WhatsApp bot systems.  
+`I am a backend-focused developer specializing in WhatsApp bot systems.  
 My work centers on automation, media processing, web scraping, and scalable bot architecture.
 
-I build bots with clean structure, efficient execution, and production-ready reliability.
+I build bots with clean structure, efficient execution, and production-ready reliability.`
 
 ---
 
