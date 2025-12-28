@@ -10,13 +10,6 @@
 
 ---
 
-### 👤 About Me
-- 💻 Programmer / Tech Enthusiast  
-- ⚙️ Linux • Automation • Scripting  
-- 🧠 Learning low-level & system stuff  
-
----
-
 ### 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
