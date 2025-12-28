@@ -2,9 +2,43 @@
 
 <h1 align="center">RyzenXD</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/main/assets/obito.gif" width="200" />
+
+# RyzenXD-sys
+
+「 Wake up to reality. Nothing ever goes as planned in this accursed world. 」
+
+---
+
+### 👤 About Me
+- 💻 Programmer / Tech Enthusiast  
+- ⚙️ Linux • Automation • Scripting  
+- 🧠 Learning low-level & system stuff  
+
+---
+
+### 🛠 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+
+---
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=RyzenXD-sys&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenXD-sys&layout=compact&theme=tokyonight" />
+
+---
+
+### 🌌 Quote
+> *“The moment people come to know love, they run the risk of carrying hate.”*  
+— **Obito Uchiha**
+
+</div>
 
 <p align="center">
   <b>WhatsApp Bot Developer | Backend Engineer | Automation Specialist</b>
