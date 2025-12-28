@@ -1,6 +1,4 @@
-*##Hi tree👋*
-
-<h1 align="center">RyzenXD</h1>
+*#Hi tree👋*
 
 <div align="center">
 
@@ -39,10 +37,6 @@
 — **Obito Uchiha**
 
 </div>
-
-<p align="center">
-  <b>WhatsApp Bot Developer | Backend Engineer | Automation Specialist</b>
-</p>
 
 ---
 
