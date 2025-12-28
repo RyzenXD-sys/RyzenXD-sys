@@ -1,4 +1,6 @@
 *#Hi tree👋*
+![alt text](https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/9d6b7419a92ece5da9706d7fa4962cbd586973c8/1766910444010.jpg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 
