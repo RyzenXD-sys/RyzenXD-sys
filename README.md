@@ -168,3 +168,5 @@ I build bots with clean structure, efficient execution, and production-ready rel
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ihnsxj54oudn6p2jylhqumgzte&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ihnsxj54oudn6p2jylhqumgzte&redirect=true)
+https://spotify-github-profile.kittinanx.com/api/view?uid=31ihnsxj54oudn6p2jylhqumgzte&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true
