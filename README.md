@@ -87,3 +87,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer" />
 </p>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ihnsxj54oudn6p2jylhqumgzte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
