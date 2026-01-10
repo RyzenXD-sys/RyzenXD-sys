@@ -1,45 +1,63 @@
-*#Hi tree👋*
-![alt text](https://raw.githubusercontent.com/RyzenXD-sys/RyzenXD-sys/9d6b7419a92ece5da9706d7fa4962cbd586973c8/1766910444010.jpg)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-<!-- 🌌 Neon Animated GitHub Profile README for RyzenXD-Sys -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=RyzenXD-Sys&fontSize=45&fontColor=0d1117&animation=fadeIn" alt="RyzenXD-Sys Banner" />
-</h1>
+# ⚡ RyzenXD-sys | Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Enthusiast;🧠+Full+Stack+Developer;🐧+Linux+Lover;🤖+AI+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/3p46cj.jpg" width="220" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="100" alt="Matrix background effect" />
+### 💫 About Me
+An enthusiastic developer focused on building efficient automated systems, WhatsApp bots, and web utilities. I love turning complex logic into simple, clean, and responsive code.
+
+- 🔭 **Current Focus:** Developing high-performance WhatsApp Assistant Bots & Web Integrations.
+- 🛠️ **Expertise:** JavaScript (ESM), Node.js, and Netlify Functions.
+- ⚡ **Philosophy:** "Simplicity is the ultimate sophistication."
+
+---
+
+### 🤖 Bot Projects Portfolio
+Berikut adalah beberapa sistem bot yang sedang saya kembangkan:
+- **Alya-MD:** WhatsApp Multi-Device Bot dengan sistem plugin ESM yang modular.
+- **AI Enhancer:** Integrasi AI untuk peningkatan kualitas video (Upscaler).
+- **Auto-Downloader:** Support TikTok (Video/Slide), IG, dan YouTube tanpa watermark.
+
+---
+
+### 🚀 Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ESM/CJS), Node.js, HTML5, CSS3 |
+| **Backend** | Netlify Functions, Axios, Express, Scrapers |
+| **Automation** | WhatsApp Bot Development (Baileys/Whiskeysockets) |
+| **Database** | JSON File Database, MongoDB |
+| **DevOps** | GitHub Actions, Git, Netlify Deployment |
+
+---
+
+### 📊 GitHub Real-time Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyzenXD-sys&show_icons=true&theme=tokyonight&count_private=true" alt="RyzenXD-sys Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenXD-sys&layout=compact&theme=tokyonight&hide_langs=html" alt="Top Languages" height="160" />
 </p>
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
-
-<p align="center">
-  ⚡ Tech Innovator | 🛠️ System Builder | 🔒 Security Explorer<br>
-  💡 Passionate about automation, AI, and performance optimization.<br>
-  🚀 Striving to make open-source projects more efficient and secure.<br>
-</p>
+### 📂 Featured Work: Web-to-GitHub Upload
+Proyek ini memungkinkan pengguna untuk mengunggah file langsung ke repositori GitHub melalui antarmuka web yang bersih menggunakan Netlify Functions.
+- **Backend:** `netlify/function/upload.js`
+- **Frontend:** `public/index.html` & `app.js`
+- **Style:** Minimalist CSS Gradient
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,html,css,nodejs,express,tailwind,linux,bash,git,github,docker,sqlite,mysql,postgres,vscode,figma,cloudflare" />
-</p>
+### 📫 Connect with Me
+- **WhatsApp:** [Join My Channel](https://whatsapp.com/channel/0029Vb4fjWE1yT25R7epR110)
+- **Telegram:** [@Hanzoffc](https://t.me/Hanzoffc)
+- **Business JID:** `6283143694217@s.whatsapp.net`
 
 ---
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyzenXD-Sys&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=RyzenXD-sys&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RyzenXD-Sys&theme=radical&hide_border=true" alt="GitHub Streak" />
